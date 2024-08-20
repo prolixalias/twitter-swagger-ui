@@ -15,8 +15,8 @@
     "version" : "2.107"
   },
   "servers" : [ {
-    "url" : "https://api.twitter.com",
-    "description" : "Twitter API"
+    "url" : "https://virtserver.swaggerhub.com/PROLIXALIAS_1/twitter-api_v_2/2.107",
+    "description" : "SwaggerHub API Auto Mocking"
   } ],
   "tags" : [ {
     "name" : "Bookmarks",
